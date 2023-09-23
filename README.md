@@ -1,0 +1,5 @@
+-  Hi, I’m @obedburindi
+-  I’m interested in programming 
+-  I’m currently learning c++
+-  I’m looking to collaborate on ...
+-  How to reach me in programming 
